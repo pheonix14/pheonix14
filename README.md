@@ -25,17 +25,7 @@ Creator of developer tooling available globally in the GitHub Actions Marketplac
 
 ---
 
-### GitHub Profile Trophies (SSS Rank Tier)
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=pheonix14&theme=radical&no-frame=false&margin-w=15" alt="Pheonix14 GitHub Trophies" />
-  </a>
-</p>
-
----
-
-### Live Glassmorphic Portfolio Card
+### Developer Profile & Core Stack
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/pheonix14/rayz-glass-cards/main/rayz-glass-card.svg" alt="Pheonix14 Glass Card" width="650" />
@@ -43,7 +33,7 @@ Creator of developer tooling available globally in the GitHub Actions Marketplac
 
 ---
 
-### Live Achievement Radar and Tier Progress
+### Live Achievement Radar & Milestones
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/pheonix14/github-achievement-radar/main/achievement-radar.svg" alt="Pheonix14 Achievement Radar" width="600" />
@@ -51,16 +41,7 @@ Creator of developer tooling available globally in the GitHub Actions Marketplac
 
 ---
 
-### Real-Time Developer Activity and Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pheonix14&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Pheonix14 Readme Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pheonix14&theme=tokyonight&hide_border=true" alt="Pheonix14 Streak Stats" />
-</p>
-
----
-
-### Support and Collaborate
+### Support & Collaborate
 
 * **Taking Custom Projects**: Available for Web3, AI, full-stack, and automation software.
 * **Star the Repositories**: Star any of the repositories if you find the tools useful.
