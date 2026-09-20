@@ -7,8 +7,8 @@
 <p align="center">
   <a href="https://github.com/pheonix14?tab=followers"><img src="https://img.shields.io/github/followers/pheonix14?label=Follow%20@pheonix14&style=for-the-badge&color=blueviolet" alt="Followers" /></a>
   <a href="https://github.com/sponsors/pheonix14"><img src="https://img.shields.io/badge/Sponsor-Pheonix14-ff69b4?style=for-the-badge&logo=github-sponsors" alt="Sponsor" /></a>
-  <img src="https://img.shields.io/badge/Status-Taking%20Custom%20Projects-00f2fe?style=for-the-badge" alt="Status" />
-  <img src="https://img.shields.io/badge/Marketplace%20Publisher-Verified-10b981?style=for-the-badge&logo=githubactions" alt="Verified Publisher" />
+  <a href="https://github.com/marketplace?type=actions&query=pheonix14"><img src="https://img.shields.io/badge/Marketplace%20Publisher-Verified-10b981?style=for-the-badge&logo=githubactions" alt="Verified Publisher" /></a>
+  <a href="https://github.com/pheonix14/rayzhub"><img src="https://img.shields.io/badge/Status-Taking%20Custom%20Projects-00f2fe?style=for-the-badge" alt="Status" /></a>
 </p>
 
 ---
