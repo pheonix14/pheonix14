@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Hi, I'm Pheonix14 🚀
+# Hi, I'm Pheonix14
 
 **Full-Stack Architect • Open-Source Builder • GitHub Marketplace Action Publisher**
 
@@ -13,19 +13,19 @@
 
 ---
 
-### 📦 Official GitHub Marketplace Published Actions
+### Official GitHub Marketplace Published Actions
 
-Proud creator of novel developer tooling available globally in the **GitHub Actions Marketplace**:
+Creator of developer tooling available globally in the GitHub Actions Marketplace:
 
 | Marketplace Action | Badge | Category | Description |
 | :--- | :--- | :--- | :--- |
-| **[Pheonix14 MCP Shield](https://github.com/marketplace/actions/pheonix14-mcp-shield)** | [![Marketplace](https://img.shields.io/badge/Marketplace-MCP_Shield-green?style=flat-square&logo=githubactions)](https://github.com/marketplace/actions/pheonix14-mcp-shield) | `Security` | Automated CI/CD security linter for Model Context Protocol & AI agents. |
-| **[Pheonix14 Achievement Radar](https://github.com/marketplace/actions/pheonix14-achievement-radar)** | [![Marketplace](https://img.shields.io/badge/Marketplace-Achievement_Radar-yellow?style=flat-square&logo=githubactions)](https://github.com/marketplace/actions/pheonix14-achievement-radar) | `CI/CD` | Dynamic tier milestone tracker for Pull Shark, Pair & Galaxy Brain. |
-| **[Pheonix14 Glass Bento Cards](https://github.com/marketplace/actions/pheonix14-glass-bento-cards)** | [![Marketplace](https://img.shields.io/badge/Marketplace-Glass_Bento_Cards-purple?style=flat-square&logo=githubactions)](https://github.com/marketplace/actions/pheonix14-glass-bento-cards) | `Utilities` | High-end glassmorphic cyber-glow Bento Grid portfolio cards. |
+| **[Pheonix14 MCP Shield](https://github.com/marketplace/actions/pheonix14-mcp-shield)** | [![Marketplace](https://img.shields.io/badge/Marketplace-MCP_Shield-green?style=flat-square&logo=githubactions)](https://github.com/marketplace/actions/pheonix14-mcp-shield) | `Security` | Automated CI/CD security linter for Model Context Protocol and AI agents. |
+| **[Pheonix14 Achievement Radar](https://github.com/marketplace/actions/pheonix14-achievement-radar)** | [![Marketplace](https://img.shields.io/badge/Marketplace-Achievement_Radar-yellow?style=flat-square&logo=githubactions)](https://github.com/marketplace/actions/pheonix14-achievement-radar) | `CI/CD` | Dynamic tier milestone tracker for Pull Shark, Pair and Galaxy Brain. |
+| **[Pheonix14 Glass Bento Cards](https://github.com/marketplace/actions/pheonix14-glass-bento-cards)** | [![Marketplace](https://img.shields.io/badge/Marketplace-Glass_Bento_Cards-purple?style=flat-square&logo=githubactions)](https://github.com/marketplace/actions/pheonix14-glass-bento-cards) | `Utilities` | Glassmorphic cyber-glow Bento Grid portfolio cards. |
 
 ---
 
-### 🏆 GitHub Profile Trophies (SSS Rank Tier)
+### GitHub Profile Trophies (SSS Rank Tier)
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -35,7 +35,7 @@ Proud creator of novel developer tooling available globally in the **GitHub Acti
 
 ---
 
-### 🎨 Live Glassmorphic Portfolio Card
+### Live Glassmorphic Portfolio Card
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/pheonix14/rayz-glass-cards/main/rayz-glass-card.svg" alt="Pheonix14 Glass Card" width="650" />
@@ -43,7 +43,7 @@ Proud creator of novel developer tooling available globally in the **GitHub Acti
 
 ---
 
-### ⚡ Live Achievement Radar & Tier Progress
+### Live Achievement Radar and Tier Progress
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/pheonix14/github-achievement-radar/main/achievement-radar.svg" alt="Pheonix14 Achievement Radar" width="600" />
@@ -51,7 +51,7 @@ Proud creator of novel developer tooling available globally in the **GitHub Acti
 
 ---
 
-### 📊 Real-Time Developer Activity & Stats
+### Real-Time Developer Activity and Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pheonix14&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Pheonix14 Readme Stats" />
@@ -60,10 +60,10 @@ Proud creator of novel developer tooling available globally in the **GitHub Acti
 
 ---
 
-### 🤝 Support & Collaborate
+### Support and Collaborate
 
-* 💡 **Taking Custom Projects**: Reach out for specialized Web3, AI, full-stack, and automation software.
-* ⭐ **Star the Repositories**: Found any of my tools or actions helpful? Drop a star on my repos!
-* 💖 **Sponsor / Donate**: Support my open-source work via [GitHub Sponsors](https://github.com/sponsors/pheonix14).
+* **Taking Custom Projects**: Available for Web3, AI, full-stack, and automation software.
+* **Star the Repositories**: Star any of the repositories if you find the tools useful.
+* **Sponsor / Donate**: Support open-source development via [GitHub Sponsors](https://github.com/sponsors/pheonix14).
 
 </div>
