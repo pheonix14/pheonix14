@@ -25,6 +25,25 @@ Creator of developer tooling available globally in the GitHub Actions Marketplac
 
 ---
 
+### 🌐 Top 10 Open-Source & Ecosystem Contributions
+
+Active contributor to core industry infrastructure, AI engines, developer tools, and open platforms:
+
+| # | Project | Organization / Maintainer | Contribution Focus | Status |
+| :-: | :--- | :--- | :--- | :-: |
+| 1 | **[MuJoCo](https://github.com/google-deepmind/mujoco)** | Google DeepMind | [PR #3611](https://github.com/google-deepmind/mujoco/pull/3611): Studio web viewer packaging & distribution fix | ![In Review](https://img.shields.io/badge/In%20Review-238636?style=flat-square&logo=github&logoColor=white) |
+| 2 | **[freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** | freeCodeCamp | [PR #70236](https://github.com/freeCodeCamp/freeCodeCamp/pull/70236): Curriculum & syntax improvements across learning modules | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=git&logoColor=white) |
+| 3 | **[ytdlnis](https://github.com/deniscerri/ytdlnis)** | deniscerri | [PR #1366](https://github.com/deniscerri/ytdlnis/pull/1366), [PR #1368](https://github.com/deniscerri/ytdlnis/pull/1368): Format size independence, history cards & stream buffer optimization | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=git&logoColor=white) |
+| 4 | **[funes](https://github.com/huggingface/funes)** | Hugging Face | [PR #166](https://github.com/huggingface/funes/pull/166): Lance fragment privacy scrubber & data scrub pipeline integrity | ![In Review](https://img.shields.io/badge/In%20Review-238636?style=flat-square&logo=github&logoColor=white) |
+| 5 | **[OpenTripPlanner](https://github.com/opentripplanner/OpenTripPlanner)** | OpenTripPlanner | [PR #8023](https://github.com/opentripplanner/OpenTripPlanner/pull/8023), [PR #8024](https://github.com/opentripplanner/OpenTripPlanner/pull/8024): GTFS-Flex trip graph crashes & signposted pathway routing preservation | ![In Review](https://img.shields.io/badge/In%20Review-238636?style=flat-square&logo=github&logoColor=white) |
+| 6 | **[lazydocker](https://github.com/jesseduffield/lazydocker)** | Jesse Duffield | [PR #841](https://github.com/jesseduffield/lazydocker/pull/841): Multi-issue stability fixes for container lifecycle, TUI & Windows support | ![In Review](https://img.shields.io/badge/In%20Review-238636?style=flat-square&logo=github&logoColor=white) |
+| 7 | **[MediVERSE](https://github.com/snowdencubes/MediVERSE)** | snowdencubes | [Direct Commits](https://github.com/snowdencubes/MediVERSE): Core Collaborator — Releases v5.0–v5.2, 24/7 neural voice engine & AI kiosk | ![Collaborator](https://img.shields.io/badge/Collaborator-10b981?style=flat-square&logo=github&logoColor=white) |
+| 8 | **[anakin](https://github.com/Anakin-Inc/anakin)** | Anakin Inc | [8 Pull Requests](https://github.com/Anakin-Inc/anakin/pulls?q=is%3Apr+author%3Apheonix14): MemoryStore order preservation, batch handlers, route error boundaries | ![In Review](https://img.shields.io/badge/In%20Review-238636?style=flat-square&logo=github&logoColor=white) |
+| 9 | **[Lidarr-YouTube-Downloader](https://github.com/Angrido/Lidarr-YouTube-Downloader)** | Angrido | [PR #92](https://github.com/Angrido/Lidarr-YouTube-Downloader/pull/92): Ntfy real-time push notification dispatcher and UI integration | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=git&logoColor=white) |
+| 10 | **[laya-mlx](https://github.com/mizorewww/laya-mlx)** | mizorewww | [PR #2](https://github.com/mizorewww/laya-mlx/pull/2): 4-bit / 8-bit Apple MLX model quantization & local inference engine | ![In Review](https://img.shields.io/badge/In%20Review-238636?style=flat-square&logo=github&logoColor=white) |
+
+---
+
 ### Developer Profile & Core Stack
 
 <p align="center">
