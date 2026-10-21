@@ -8,7 +8,8 @@
   <a href="https://github.com/pheonix14?tab=followers"><img src="https://img.shields.io/github/followers/pheonix14?label=Follow%20@pheonix14&style=for-the-badge&color=blueviolet" alt="Followers" /></a>
   <a href="https://github.com/sponsors/pheonix14"><img src="https://img.shields.io/badge/Sponsor-Pheonix14-ff69b4?style=for-the-badge&logo=github-sponsors" alt="Sponsor" /></a>
   <a href="https://github.com/marketplace?type=actions&query=pheonix14"><img src="https://img.shields.io/badge/Marketplace%20Publisher-Verified-10b981?style=for-the-badge&logo=githubactions" alt="Verified Publisher" /></a>
-  <a href="https://github.com/pheonix14/rayzhub"><img src="https://img.shields.io/badge/Status-Taking%20Custom%20Projects-00f2fe?style=for-the-badge" alt="Status" /></a>
+  <a href="https://rayzien.github.io/rayzhub/"><img src="https://img.shields.io/badge/Status-Taking%20Custom%20Projects-00f2fe?style=for-the-badge" alt="Status" /></a>
+  <a href="https://rayzien.github.io/rayzhub/"><img src="https://img.shields.io/badge/Contact%20Me-RayzHub-00ff66?style=for-the-badge&logo=googlechrome&logoColor=000" alt="Contact Me" /></a>
 </p>
 
 ---
@@ -56,7 +57,7 @@ Upstream merged contributions into popular open-source projects and developer ec
 
 ### Support & Collaborate
 
-* **Taking Custom Projects**: Available for Web3, AI, full-stack, and automation software.
+* **Taking Custom Projects**: Available for Web3, AI, full-stack, and automation software. Contact via [RayzHub Portal](https://rayzien.github.io/rayzhub/).
 * **Star the Repositories**: Star any of the repositories if you find the tools useful.
 * **Sponsor / Donate**: Support open-source development via [GitHub Sponsors](https://github.com/sponsors/pheonix14) or cryptocurrency.
 
