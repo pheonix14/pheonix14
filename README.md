@@ -58,6 +58,16 @@ Upstream merged contributions into popular open-source projects and developer ec
 
 * **Taking Custom Projects**: Available for Web3, AI, full-stack, and automation software.
 * **Star the Repositories**: Star any of the repositories if you find the tools useful.
-* **Sponsor / Donate**: Support open-source development via [GitHub Sponsors](https://github.com/sponsors/pheonix14).
+* **Sponsor / Donate**: Support open-source development via [GitHub Sponsors](https://github.com/sponsors/pheonix14) or cryptocurrency.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8d83b1e1-ae37-4502-a5d9-9a34b909f7bc" alt="Litecoin Donation QR Code" width="200" />
+  <br />
+  <b>Litecoin (LTC) Donation Address:</b>
+  <br />
+  <code>ltc1q68v0ss6rjzt89rx4ll0e4c8fl657wej2lzngsg</code>
+  <br />
+  <sub>Scan with your LTC wallet or send directly to support open-source development</sub>
+</p>
 
 </div>
