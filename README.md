@@ -12,7 +12,37 @@
   <a href="https://rayzien.github.io/rayzhub/"><img src="https://img.shields.io/badge/Contact%20Me-RayzHub-00ff66?style=for-the-badge&logo=googlechrome&logoColor=000" alt="Contact Me" /></a>
 </p>
 
+</div>
+
 ---
+
+### 🛸 About Me & Core Philosophy
+
+> *"Built for fun and for simplification of life. Zero logging, anti-detect engines, high-performance tooling."*
+
+- 🌐 Creator of **[CPUGhost](https://github.com/pheonix14/cpughost)**: Headless dual-PC hotspot screen & multi-PC local chain web system. Works like `scrcpy` but 100% free, connecting multiple PCs together forming a huge chain like a web locally. Features multi-screen tabs, remote desktop, zero-config hotspot discovery, and virtual pen drive file synchronization.
+- 🎮 Collaborator on **[GameGhost](https://github.com/rayzien/gameghost)** (by rayzien, based on CPUGhost, WIP): Operates like PS Portal and cloud gaming, casting from local PC to phone anywhere in range with ultra-low latency, touch layout controls, and uinput controller emulation.
+- ⚡ Architect of **[multriix-x](https://github.com/pheonix14/multriix-x)**: Local AI Developer Platform with Integrated Code Editor & Mixture-of-Agents.
+- 🛡️ Architect of **[LiveDRIVE](https://github.com/pheonix14/LiveDRIVE)**: Anonymous encrypted drive architecture with zero-logging design.
+- ⚙️ Co-architect of **[RayzHub](https://rayzien.github.io/rayzhub/)**: Distributed web platform and BLAST Gateway queue architecture.
+
+---
+
+### 🚀 Featured Systems & Repositories
+
+| Repository | Description | Key Stack |
+| :--- | :--- | :--- |
+| **[CPUGhost](https://github.com/pheonix14/cpughost)** | Headless Dual-PC Hotspot Screen & Multi-PC Local Chain Web System (scrcpy-like, 100% free) | `Python` `Shell` `Mesh` |
+| **[GameGhost](https://github.com/rayzien/gameghost)** | PS Portal & cloud-gaming style PC to phone handheld cast (by rayzien, based on CPUGhost, WIP) | `Python` `Termux-X11` `Gaming` |
+| **[multriix-x](https://github.com/pheonix14/multriix-x)** | Local AI Developer Platform with Integrated Code Editor & Mixture-of-Agents Collaborative Ensemble | `Python` `Local AI` `Desktop` |
+| **[LiveDRIVE](https://github.com/pheonix14/LiveDRIVE)** | Anonymous storage and drive architecture. Zero-logging design and cryptographic integrity | `HTML5` `Web` `Storage` |
+| **[Yimiter](https://github.com/pheonix14/Yimiter---Ram-Limiter-for-PC)** | Desktop memory control utility & open-source RAM limiter application | `System Utility` `RAM Control` |
+| **[stoud](https://github.com/pheonix14/stoud)** | Real-time broadcast engine and low-latency audio/video routing pipeline | `Python` `Streaming` `Audio/Video` |
+| **[Zero UI Launcher](https://github.com/pheonix14/Zero-Android-Gaming-Ui-launcher)** | Custom gaming UI launcher for Android handhelds, emulators, and low-latency portable gaming | `Android` `System UI` |
+
+---
+
+<div align="center">
 
 ### Official GitHub Marketplace Published Actions
 
