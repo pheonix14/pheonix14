@@ -38,7 +38,7 @@
 | **[LiveDRIVE](https://github.com/pheonix14/LiveDRIVE)** | Anonymous storage and drive architecture. Zero-logging design and cryptographic integrity | `HTML5` `Web` `Storage` |
 | **[Yimiter](https://github.com/pheonix14/Yimiter---Ram-Limiter-for-PC)** | Desktop memory control utility & open-source RAM limiter application | `System Utility` `RAM Control` |
 | **[stoud](https://github.com/pheonix14/stoud)** | Real-time broadcast engine and low-latency audio/video routing pipeline | `Python` `Streaming` `Audio/Video` |
-| **[Zero UI Launcher](https://github.com/pheonix14/Zero-Android-Gaming-Ui-launcher)** | Custom gaming UI launcher for Android handhelds, emulators, and low-latency portable gaming | `Android` `System UI` |
+| **[Zero UI Launcher / ZeroOne Desktop](https://github.com/pheonix14/Zero-Android-Gaming-Ui-launcher)** | ZeroOne Native Workstation Desktop OS (aarch64 Linux terminal, 2-finger click customizations, -40% pop-up scaling) & Gaming UI | `Android` `Java/Kotlin` `Linux aarch64` |
 
 ---
 
